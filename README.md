@@ -13,7 +13,8 @@ Valmod, kurulabilir bir sürüme sahiptir. Valmod'u paketlemek için Inno Setup 
 > ## Windows 10 / 11
 > İndirilebilir sürüm mevcut. 
 > Windows sürümü Webview2 desteği içerdiğinden bilgisayarınızda Edge motoru olduğundan emin olun.
-> [![İndir](https://img.shields.io/badge/İndir-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)](https://github.com/JeaFrid/Stardew-Valmod/releases/latest)
+
+[![İndir](https://img.shields.io/badge/İndir-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)](https://github.com/JeaFrid/Stardew-Valmod/releases/latest)
 
 > [!WARNING]
 > ## Linux
