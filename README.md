@@ -1,6 +1,7 @@
 # Stardew Valmod!
 
 ![Valmod](https://raw.githubusercontent.com/JeaFrid/Stardew-Valmod/refs/heads/main/assets/github/valmod_1.png)
+_JeaFriday tarafından, insanlık için geliştirilmiştir._
 
 Valmod, Stardew Valley için açık kaynak kodlu bir mod yöneticisidir. [NexusMod](https://www.nexusmods.com/) sitesi içeriğinde yer alan modları indirmek, indirilen modları yönetmek, klasörler ve mod paketleri oluşturmak için Valmod, muhteşem bir seçenektir!
 -----
